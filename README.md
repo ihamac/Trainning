@@ -11,10 +11,6 @@
 | Désinfection Virus                     | Logiciel antivirus                     |
 
 
-## Renseignement client ##
-
-
-
 
 
 
