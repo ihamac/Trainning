@@ -1,4 +1,5 @@
 # [STAGE] Dépannage et réparation informatique et téléphonie #
+
 1. Service client 
      
 |		Tâches                         |		Outils                          |        
@@ -9,6 +10,7 @@
 | Recherche de Panne                     | OS Parted Magic (Tester le disque dur) |
 | Installation de Systèmes d'Exploitation| Clé USB                                |
 | Désinfection Virus                     | Logiciel antivirus                     |
+
 
 
 2. Rendre compatible une logiciel Windows 7 sous  Windows 10 
