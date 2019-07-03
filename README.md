@@ -1,10 +1,12 @@
 # Dépannage et réparation informatique et téléphonie #
 
 
-* Réparation Ordinateurs / PC Portable  
-* Réparation Téléphones
-* Récupération / Transfert de données
-* Recherche de Panne
+|		Tâches                              |		            Outils                   |        
+|:-------------------------------------:|:--------------------------------------:|
+| Réparation Ordinateurs / PC Portable  | Tournevis                              |
+| Réparation Téléphones                 | Tournevis                              |
+| Récupération / Transfert de données   | Disque dur externe                     |
+| Recherche de Panne                    | OS Parted Magic (Tester le disque dur) |
 
 -----------------------------------------
 
