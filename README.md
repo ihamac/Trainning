@@ -2,7 +2,7 @@
 
 
 |		Tâches                              |		            Outils                   |        
-|:-------------------------------------:|:--------------------------------------:|
+|---------------------------------------|----------------------------------------|
 | Réparation Ordinateurs / PC Portable  | Tournevis                              |
 | Réparation Téléphones                 | Tournevis                              |
 | Récupération / Transfert de données   | Disque dur externe                     |
