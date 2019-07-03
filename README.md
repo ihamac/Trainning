@@ -1,7 +1,7 @@
 # Dépannage et réparation informatique et téléphonie #
 
 
-|		Tâches                              |		            Outils                   |        
+|		Tâches                              |	Outils                                 |        
 |---------------------------------------|----------------------------------------|
 | Réparation Ordinateurs / PC Portable  | Tournevis                              |
 | Réparation Téléphones                 | Tournevis                              |
