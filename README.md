@@ -2,7 +2,7 @@
 
 # 1. Service client # 
 -----------------------------------------------------------------------------------     
-|		Tâches                         |		Outils                          |        
+|		Tâches                               |		Outils                              |        
 |----------------------------------------|----------------------------------------|
 | Réparation Ordinateurs / PC Portable   | Tournevis                              |
 | Réparation Téléphones                  | Tournevis                              |
