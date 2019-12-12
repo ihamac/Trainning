@@ -1,0 +1,12 @@
+\\172.16.0.168\test\w1nd0w F0rM\WINDOWS FORM PPE\bin\Debug\WINDOWS FORM PPE.exe.config
+\\172.16.0.168\test\w1nd0w F0rM\WINDOWS FORM PPE\bin\Debug\WINDOWS FORM PPE.exe
+\\172.16.0.168\test\w1nd0w F0rM\WINDOWS FORM PPE\bin\Debug\WINDOWS FORM PPE.pdb
+\\172.16.0.168\test\w1nd0w F0rM\WINDOWS FORM PPE\bin\Debug\MySql.Data.dll
+\\172.16.0.168\test\w1nd0w F0rM\WINDOWS FORM PPE\bin\Debug\MySql.Data.xml
+\\172.16.0.168\test\w1nd0w F0rM\WINDOWS FORM PPE\obj\Debug\WINDOWS_FORM_PPE.Form1.resources
+\\172.16.0.168\test\w1nd0w F0rM\WINDOWS FORM PPE\obj\Debug\WINDOWS_FORM_PPE.Properties.Resources.resources
+\\172.16.0.168\test\w1nd0w F0rM\WINDOWS FORM PPE\obj\Debug\LE VRAI.csproj.GenerateResource.cache
+\\172.16.0.168\test\w1nd0w F0rM\WINDOWS FORM PPE\obj\Debug\LE VRAI.csproj.CoreCompileInputs.cache
+\\172.16.0.168\test\w1nd0w F0rM\WINDOWS FORM PPE\obj\Debug\LE VRAI.csproj.CopyComplete
+\\172.16.0.168\test\w1nd0w F0rM\WINDOWS FORM PPE\obj\Debug\WINDOWS FORM PPE.exe
+\\172.16.0.168\test\w1nd0w F0rM\WINDOWS FORM PPE\obj\Debug\WINDOWS FORM PPE.pdb
